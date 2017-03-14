@@ -1,0 +1,46 @@
+urxvt*font: 			xft:Hack:pixelsize=11:antialias=false
+rxvt*font: 			xft:Hack:pixelsize=11:antialias=false
+urxvt*iconName:			rxvt-unicode
+rxvt.scrollBar: false
+rxvt.shading: 25
+urxvt.shading: 25
+urxvt.scrollBar: false
+
+*background: #222222
+*foreground: #ffffff
+*colorUL:    #C5C8A8
+!black
+   *color0: #2E1F1F
+   *color8: #422D2D
+!red
+   *color1: #641010
+   *color9: #641010
+!green
+   *color2: #10643e
+   *color10: #2da76f
+!yellow
+   *color3: #dadc5b
+   *color11: #6c6d17
+!blue
+   *color4: #18506a
+   *color12: #18396a
+!magenta
+   *color5: #6a4618
+   *color13: #40c980
+!cyan
+   *color6: #274f50
+   *color14: #0ca2a7
+!white
+   *color7: #818f8f
+   *color15: #5f7374
+
+twobwm.border_width: 5
+twobwm.outer_border: 2
+twobwm.focus_color: #818f8f
+twobwm.unfocus_color: #818f8f
+twobwm.fixed_color: #10643e
+twobwm.unkill_color: #818f8f
+twobwm.outer_border_color: #818f8f
+twobwm.fixed_unkill_color: #818f8f
+twobwm.inverted_colors: true
+twobwm.enable_compton: true
